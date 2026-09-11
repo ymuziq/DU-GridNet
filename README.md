@@ -4,7 +4,7 @@ Code and example data for **DU-GridNet**, developed for baseline correction of R
 
 - `DU_GridNet_Model.py`: DU-GridNet model architecture
 - `DU_GridNet.pth`: Pre-trained model weights
-- `Du_GridNet_Example.ipynb`: Example inference and visualization
+- `DU_GridNet_Example.ipynb`: Example inference and visualization
 - `Raman_Data/`: Simulated and experimental example spectra
 
 This repository accompanies the manuscript  
